@@ -6,6 +6,8 @@
 
 [核心宣言](docs/manifesto.md) · [系统与应用](docs/system-map.md) · [TALOS World](docs/world.md) · [当前阶段](docs/status.md) · [名称来源](docs/origins.md)
 
+© 2026 Hanhan758（外脑玩家）。原创表达保留权利；本仓库为公开阅读项目，未授予开放许可。适用例外、平台权利及授权联系见[权利声明](NOTICE.md)，版本与文件核对见[来源记录](PROVENANCE.md)。
+
 ![资料、目标、协作、成果与经验形成持续积累的过程](assets/01-intro.png)
 
 TALOS 从长期真实使用中生长：整理自己的资料，明确正在做的事，与大模型协作，把有用的成果和经验留下。每次工作，都能为下一次积累基础。
