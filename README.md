@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **后续入口：TALOS Framework。** 本仓库保留 2026-09-10 的公开内容和原有文件路径，作为历史参考；后续的理念、系统关系与状态说明请访问 [TALOS Framework](https://github.com/Hanhan758/talos-framework)。本页原文中的阶段描述属于当时记录，不代表当前状态。
+>
+> 讨论或授权联系请使用 [Framework Issues](https://github.com/Hanhan758/talos-framework/issues)，不要提交私人信息。原始版本及原校验清单保留在 Framework 的 `history/agent-os-2026-09-10/` 目录，旧提交历史仍可查阅。
+
 <p align="center"><img src="assets/logo.png" width="180" alt="TALOS 已确认品牌标志" /></p>
 
 # TALOS · Agent OS
